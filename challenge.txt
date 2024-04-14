@@ -1,2 +1,4 @@
-This is my Git challenge file.
-297ee9e3fda19fca1f2a6d545d4a66988db881c5
+100644 dfe0770424b2a19faf507a501ebfc23be8f54e7b 0       .gitattributes
+100644 297ee9e3fda19fca1f2a6d545d4a66988db881c5 0       README.md
+100644 54af956750ff9a96108ddcb656a07a31bdca7fa9 0       challenge.txt
+100644 56a6051ca2b02b04ef92d5150c9ef600403cb1de 0       hash.txt
